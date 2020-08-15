@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Rajasekaran Rajaram, a software engineer by choice and by profession.
+
 <!--
 **SekarRaj/SekarRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
