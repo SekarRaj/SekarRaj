@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am Rajasekaran Rajaram, a software engineer by choice and by profession.
+I am Rajasekaran Rajaram, a software engineer by choice and by profession. I am passionate of designing distributed systems and love writing code in Java, Rust, Elixir and Python. 
+
 
 - 📫 How to reach me: sekar_raj@hotmail.com
+- 🔭 I’m currently working on setting up learning series to elucidate the AI/ML concepts from the scratch using exclusively opensource models and libraries.
 
 <!--
 **SekarRaj/SekarRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
